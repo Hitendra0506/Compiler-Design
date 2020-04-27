@@ -1,0 +1,5 @@
+
+Problem Statement : 
+
+Write a lex program to read & validate a mathematical expression and display the result. The result should follow BODMAS Rule. If the expression
+is invalid then display as invalid.
